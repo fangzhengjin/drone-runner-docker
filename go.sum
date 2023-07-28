@@ -50,6 +50,8 @@ github.com/envoyproxy/go-control-plane v0.9.4/go.mod h1:6rpuAdCZL397s3pYoYcLgu1m
 github.com/envoyproxy/protoc-gen-validate v0.1.0/go.mod h1:iSmxcyjqTsJpI2R4NaDN7+kN2VEUnK/pcBlmesArF7c=
 github.com/fangzhengjin/drone-go v0.0.0-20230726090011-39bec11d759d h1:NPk2uZadUb+nYbdRKcCjCag25nR5Wl5PpS7UkwsJMG4=
 github.com/fangzhengjin/drone-go v0.0.0-20230726090011-39bec11d759d/go.mod h1:fxCf9jAnXDZV1yDr0ckTuWd1intvcQwfJmTRpTZ1mXg=
+github.com/fangzhengjin/drone-go v1.7.2 h1:bCrGiDXBhzvoi0JJTdHjHvk9a9uo3K7vJwrBKqgtBgA=
+github.com/fangzhengjin/drone-go v1.7.2/go.mod h1:fxCf9jAnXDZV1yDr0ckTuWd1intvcQwfJmTRpTZ1mXg=
 github.com/ghodss/yaml v1.0.0 h1:wQHKEahhL6wmXdzwWG11gIVCkOv05bNOh+Rxn0yngAk=
 github.com/ghodss/yaml v1.0.0/go.mod h1:4dBDuWmgqj2HViK6kFavaiC9ZROes6MMH2rRYeMEF04=
 github.com/gogo/protobuf v0.0.0-20170307180453-100ba4e88506 h1:zDlw+wgyXdfkRuvFCdEDUiPLmZp2cvf/dWHazY0a5VM=
